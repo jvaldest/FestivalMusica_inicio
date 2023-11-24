@@ -331,10 +331,6 @@ a {
   text-decoration: none;
 }
 
-img {
-  width: 100%;
-}
-
 .contenedor {
   width: 95%;
   max-width: 120rem;
@@ -357,4 +353,19 @@ h2 {
 
 h3 {
   font-size: 3rem;
+}
+
+.header {
+  background-color: #4cb8b3;
+}
+.header h1 {
+  color: white;
+}
+
+.navegacion-principal a {
+  color: white;
+  font-size: 2.4rem;
+}
+.navegacion-principal a:hover {
+  color: #fef46d;
 }
